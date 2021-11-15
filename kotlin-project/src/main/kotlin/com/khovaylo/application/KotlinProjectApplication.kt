@@ -1,4 +1,4 @@
-package com.khovaylo.kotlinproject
+package com.khovaylo.application
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
